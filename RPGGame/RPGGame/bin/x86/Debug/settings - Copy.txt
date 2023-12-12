@@ -1,0 +1,13 @@
+health=146
+maxhealth=696
+exp=5904
+maxexp=8614
+mana=98
+maxmana=464
+damage=41
+level=12
+x=704.9203
+y=1727.995
+defense=12
+wisdom=12
+agility=12

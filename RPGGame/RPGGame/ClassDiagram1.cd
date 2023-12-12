@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RPGGame.Core.AnimatedSprite">
+    <Position X="6.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAJgAAAAkBAAIAAgAAQCAgAAAAAAAAQAA=</HashCode>
+      <FileName>Core\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.AnimationDirection" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Core\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.BaseSprite">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\BaseSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Camera" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAQgAAQAAAAAACAgEAAAAAANAABAAAAAAAAAIQAgAAA=</HashCode>
+      <FileName>Core\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Character">
+    <Position X="12.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAgAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgA=</HashCode>
+      <FileName>Core\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.DirectionalEntity">
+    <Position X="15.25" Y="12.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Core\DirectionalEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Enemy">
+    <Position X="5" Y="14.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MAQAgACAQgAAAAQAgEAEAAAAQAEAAQIAAAAAAAAAAgI=</HashCode>
+      <FileName>Core\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.EnemyBoundArea" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAgAAAAAAAAAAAAAAAAAgAAABAAgCABAAAAA=</HashCode>
+      <FileName>Core\EnemyBoundArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Entity">
+    <Position X="15.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Core\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.FloatingText" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAgAIEAAAAAQAAAAAQABgAAAAAAAAAAA=</HashCode>
+      <FileName>Core\FloatingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Quin&lt;T, R, E, W, Q&gt;" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQAAAAAAAAIAIAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Core\FloatingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.GameUI" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAIA=</HashCode>
+      <FileName>Core\GameUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Input" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACgIAAAAAAAAABAAAAAAQAAAAAAAACAAA=</HashCode>
+      <FileName>Core\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.LivingEntity">
+    <Position X="15.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\LivingEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.MapCell" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAABAAAAAAAAACAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\MapCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.ParticleSystem" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAgAAA4AAAAgAAABAAAAAAAgAAAACAAAAAAA=</HashCode>
+      <FileName>Core\ParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Particle" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAgAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Core\ParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Triple&lt;T, R, E&gt;" Collapsed="true">
+    <Position X="22" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Core\ParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.PlayableCharacter">
+    <Position X="12.5" Y="17.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\PlayableCharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.ResourceHolder" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICACgEAMEAiBEMIBSUAACIAhAADAAADMAAICKhAAACA=</HashCode>
+      <FileName>Core\ResourceHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.SpriteFrameHolder" Collapsed="true">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAACAABBACAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Core\ResourceHolder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.RotatedRectangle" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAAAAIAAAAgAAEMEAAgAAAABAAIQAAgAYIA=</HashCode>
+      <FileName>Core\RotatedRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Settings" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgIAAAAgAAAAAAAAAEAAAAAAAAAEACAgAAAAA=</HashCode>
+      <FileName>Core\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Sprite">
+    <Position X="8.75" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IARACAAABAAAAgQgAAAGZEAAAAAAQgAAAAIAAAAA5AA=</HashCode>
+      <FileName>Core\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.SpriteManager" Collapsed="true">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQghAAAgAAgAgAQAAAAQAAAgAAAAgAAASAAAACAAAA=</HashCode>
+      <FileName>Core\SpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.Tile" Collapsed="true">
+    <Position X="27.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAACAAAAAAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>Core\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.TileMap" Collapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAQAAAkAEAkQgAAAAAAIQABIAAAAEgAAAAAAAEBA=</HashCode>
+      <FileName>Core\TileMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.MapRow" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Core\TileMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Core.UnpassableSprite">
+    <Position X="17.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\UnpassableSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Entities.EnemyProjectile">
+    <Position X="15.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\EnemyProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Entities.Projectile">
+    <Position X="15.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.FPS" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAgAAACAAAAAAAAACIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FPS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Program" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.GameScreen" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QASA0UAAAkAyQyABAAAEAgAAAABAAAgIADAAAJAAIAQ=</HashCode>
+      <FileName>Screens\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPGGame.Sprites.Enemies.GoblinClub">
+    <Position X="5.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Enemies\GoblinClub.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPGGame.Sprites.Enemies.GoblinShield">
+    <Position X="7.75" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Enemies\GoblinShield.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPGGame.Sprites.Enemies.GoblinSword">
+    <Position X="10" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Enemies\GoblinSword.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPGGame.Sprites.Enemies.GoblinWizardCrown">
+    <Position X="0.5" Y="20.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Enemies\GoblinWizardCrown.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPGGame.Sprites.Enemies.GoblinWizardWood">
+    <Position X="3" Y="20.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Enemies\GoblinWizardWood.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPGGame.Sprites.Tree">
+    <Position X="17.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Tree.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPGGame.Sprites.Wizard">
+    <Position X="12.25" Y="20" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAJAAEAAACARBgAAAAAABEAAgAAAhCAAAKwBAABA=</HashCode>
+      <FileName>Sprites\Wizard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="RPGGame.Core.IHurtable" Collapsed="true">
+    <Position X="20.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IHurtable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="RPGGame.Core.AnimationState" Collapsed="true">
+    <Position X="20.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Core\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RPGGame.Core.EnemyState" Collapsed="true">
+    <Position X="23.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Core\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RPGGame.Core.EnemyStance" Collapsed="true">
+    <Position X="22" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAACA=</HashCode>
+      <FileName>Core\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="RPGGame.GameState" Collapsed="true">
+    <Position X="25.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAIAAAAgIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

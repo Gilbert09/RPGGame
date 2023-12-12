@@ -1,0 +1,2 @@
+J:\RPGGame\RPGGame\RPGGameContent\obj\x86\Debug\RPGGameContent.contentprojResolveAssemblyReference.cache
+E:\RPGGame\RPGGame\RPGGameContent\obj\x86\Debug\RPGGameContent.contentprojResolveAssemblyReference.cache
